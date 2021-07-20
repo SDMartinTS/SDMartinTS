@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SDMartinTS
 - 👀 I’m interested in getting to know software testers with a technical background.
-- 🌱 I’m currently learning Python an pentesting on Kali Linux. I'm no developer.
+- 🌱 I’m currently learning Python and pentesting on Kali Linux. I'm no developer.
 - 💞️ I provide work opportunities for software testers, test automation engineers and test managers in Germany.
 - 📫 deniz.martin@testsolutions.de
